@@ -41,6 +41,22 @@ namespace Manager_SIMS.Repositories
             _context.Enrollments.Remove(enrollment);
             return await _context.SaveChangesAsync() > 0;
         }
-      
+        public async Task<List<Course>> GetCoursesByStudentId(int studentId)
+        {
+            return await _context.Enrollments
+                .Where(e => e.StudentId == studentId)
+                .Select(e => e.Course)
+                .ToListAsync();
+        }
+
+
+        public async Task<IEnumerable<Course>> GetStudentCoursesAsync(int studentId)
+        {
+            return await _context.Enrollments
+                .Where(e => e.StudentId == studentId)
+                .Include(e => e.Course)
+                .Select(e => e.Course)
+                .ToListAsync();
+        }
     }
 }
