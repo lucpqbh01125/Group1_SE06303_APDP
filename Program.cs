@@ -27,8 +27,8 @@ builder.Services.AddMvc();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-//builder.Services.AddScoped<IUserRepository, UserRepository>();
-//builder.Services.AddScoped<IUserFacade, UserFacade>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserFacade, UserFacade>();
 //builder.Services.AddScoped<ICourseRepository, CourseRepository>();
 //builder.Services.AddScoped<ICourseFacade, CourseFacade>();
 //builder.Services.AddScoped<IEnrollmentRepository, EnrollmentRepository>();

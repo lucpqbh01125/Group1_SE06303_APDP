@@ -166,3 +166,4 @@ C:\Manager_SIMS\obj\Debug\net8.0\refint\Manager_SIMS.dll
 C:\Manager_SIMS\obj\Debug\net8.0\Manager_SIMS.pdb
 C:\Manager_SIMS\obj\Debug\net8.0\Manager_SIMS.genruntimeconfig.cache
 C:\Manager_SIMS\obj\Debug\net8.0\ref\Manager_SIMS.dll
+C:\Manager_SIMS\obj\Debug\net8.0\Manager_SIMS.sourcelink.json
