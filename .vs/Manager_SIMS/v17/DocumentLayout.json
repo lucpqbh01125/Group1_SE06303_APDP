@@ -1,186 +1,210 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\",
+  "WorkspaceRootPath": "C:\\Manager_SIMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\ienrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\ienrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\icoursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\icoursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\coursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\coursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\iuserfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\iuserfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\migrations\\20250327102045_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:migrations\\20250327102045_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\enrollment\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\enrollment\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\grade\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\grade\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\grade\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\grade\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\student\\viewgrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\student\\viewgrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\student\\viewcourse.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\student\\viewcourse.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\enrollment\\list.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\enrollment\\list.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\course\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\igradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\igradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\gradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\gradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\gradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\gradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\coursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\coursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\igradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\igradefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\student\\viewgrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\student\\viewgrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\student\\viewcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\student\\viewcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\grade\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\grade\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\enrollment\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\enrollment\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\enrollment\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\enrollment\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\iuserfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\iuserfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\ienrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\ienrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\facades\\icoursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\icoursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\manager_sims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:manager_sims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\migrations\\20250327102045_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:migrations\\20250327102045_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\grade\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\grade\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\student\\viewcourse.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\student\\viewcourse.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\enrollment\\list.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\enrollment\\list.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\views\\course\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\create.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\models\\gradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\models\\gradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:models\\gradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\manager_sims\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\manager_sims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:manager_sims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,550 +214,654 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:52:59.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEnrollmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IEnrollmentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IEnrollmentRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IEnrollmentRepository.cs",
-              "RelativeToolTip": "Repositories\\IEnrollmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:04:24.747Z",
+              "Title": "ViewCourse.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Student\\ViewCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\ViewCourse.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Student\\ViewCourse.cshtml",
+              "RelativeToolTip": "Views\\Student\\ViewCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:32:41.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EnrollmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\EnrollmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\EnrollmentController.cs",
-              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:54:40.421Z"
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:32:38.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:52:22.558Z"
+              "DocumentIndex": 6,
+              "Title": "ViewGrade.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Student\\ViewGrade.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\ViewGrade.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Student\\ViewGrade.cshtml",
+              "RelativeToolTip": "Views\\Student\\ViewGrade.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EnrollmentFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\EnrollmentFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\EnrollmentFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\EnrollmentFacade.cs",
-              "RelativeToolTip": "Facades\\EnrollmentFacade.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
+              "Title": "GradeFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\GradeFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\GradeFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\GradeFacade.cs",
+              "RelativeToolTip": "Facades\\GradeFacade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:08:33.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IEnrollmentFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IEnrollmentFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\IEnrollmentFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IEnrollmentFacade.cs",
-              "RelativeToolTip": "Facades\\IEnrollmentFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:08:46.193Z",
+              "WhenOpened": "2025-03-27T19:30:49.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Create.cshtml",
-              "RelativeToolTip": "Views\\Course\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T11:01:17.361Z"
+              "Title": "IGradeFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\IGradeFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\IGradeFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\IGradeFacade.cs",
+              "RelativeToolTip": "Facades\\IGradeFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EnrollmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\EnrollmentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EnrollmentRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\EnrollmentRepository.cs",
-              "RelativeToolTip": "Repositories\\EnrollmentRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CourseFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\CourseFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\CourseFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\CourseFacade.cs",
+              "RelativeToolTip": "Facades\\CourseFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:04:10.549Z"
+              "WhenOpened": "2025-03-27T19:30:49.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICourseFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\ICourseFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\ICourseFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\ICourseFacade.cs",
-              "RelativeToolTip": "Facades\\ICourseFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\EnrollmentFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\EnrollmentFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\EnrollmentFacade.cs",
+              "RelativeToolTip": "Facades\\EnrollmentFacade.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:09:31.89Z"
+              "WhenOpened": "2025-03-27T19:30:49.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GradeRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\GradeRepository.cs",
+              "RelativeToolTip": "Repositories\\GradeRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGradeRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\IGradeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGradeRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\IGradeRepository.cs",
+              "RelativeToolTip": "Repositories\\IGradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CourseFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\CourseFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\CourseFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\CourseFacade.cs",
-              "RelativeToolTip": "Facades\\CourseFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:07:49.342Z"
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:32:38.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:01:16.477Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:32:37.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:05:28.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:06:02.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ICourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\ICourseRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ICourseRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\ICourseRepository.cs",
-              "RelativeToolTip": "Repositories\\ICourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:03:57.852Z"
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Grade\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Grade\\Edit.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Grade\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Grade\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:32:34.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CourseRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\CourseRepository.cs",
-              "RelativeToolTip": "Repositories\\CourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:03:40.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T11:09:25.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250327102045_data.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Migrations\\20250327102045_data.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250327102045_data.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Migrations\\20250327102045_data.cs",
-              "RelativeToolTip": "Migrations\\20250327102045_data.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:20:45.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Enrollment\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enrollment\\List.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Enrollment\\List.cshtml",
+              "RelativeToolTip": "Views\\Enrollment\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:13:10.136Z"
+              "WhenOpened": "2025-03-27T19:32:28.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "UserFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\UserFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\UserFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\UserFacade.cs",
-              "RelativeToolTip": "Facades\\UserFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:08:14.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T11:09:34.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T10:01:38.46Z"
+              "WhenOpened": "2025-03-27T19:30:49.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "IUserFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IUserFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\IUserFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IUserFacade.cs",
-              "RelativeToolTip": "Facades\\IUserFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:08:59.738Z"
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 21,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "Repositories\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAF0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\List.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Course\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\List.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\List.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Course\\List.cshtml",
               "RelativeToolTip": "Views\\Course\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:13:00.058Z"
+              "WhenOpened": "2025-03-27T19:30:49.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Create.cshtml",
-              "RelativeToolTip": "Views\\Course\\Create.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Grade\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Grade\\Create.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Grade\\Create.cshtml",
+              "RelativeToolTip": "Views\\Grade\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:13:19.992Z"
+              "WhenOpened": "2025-03-27T19:30:49.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Grade\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Grade\\List.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Grade\\List.cshtml",
+              "RelativeToolTip": "Views\\Grade\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Assign.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Enrollment\\Assign.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Enrollment\\Assign.cshtml",
               "RelativeDocumentMoniker": "Views\\Enrollment\\Assign.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Enrollment\\Assign.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Enrollment\\Assign.cshtml",
               "RelativeToolTip": "Views\\Enrollment\\Assign.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:13:40.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Enrollment\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Enrollment\\List.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Enrollment\\List.cshtml",
-              "RelativeToolTip": "Views\\Enrollment\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:13:52.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ViewCourse.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Student\\ViewCourse.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\ViewCourse.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Student\\ViewCourse.cshtml",
-              "RelativeToolTip": "Views\\Student\\ViewCourse.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:14:57.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ViewGrade.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Student\\ViewGrade.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\ViewGrade.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Student\\ViewGrade.cshtml",
-              "RelativeToolTip": "Views\\Student\\ViewGrade.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:15:47.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Grade\\List.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\List.cshtml",
-              "RelativeToolTip": "Views\\Grade\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:16:04.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Grade\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\Create.cshtml",
-              "RelativeToolTip": "Views\\Grade\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:16:24.837Z"
+              "WhenOpened": "2025-03-27T19:30:49.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Grade\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Grade\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T10:16:36.412Z"
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\UserFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\UserFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\UserFacade.cs",
+              "RelativeToolTip": "Facades\\UserFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\IUserFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\IUserFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\IUserFacade.cs",
+              "RelativeToolTip": "Facades\\IUserFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEnrollmentFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\IEnrollmentFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\IEnrollmentFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\IEnrollmentFacade.cs",
+              "RelativeToolTip": "Facades\\IEnrollmentFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICourseFacade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Facades\\ICourseFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\ICourseFacade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Facades\\ICourseFacade.cs",
+              "RelativeToolTip": "Facades\\ICourseFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Repositories\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICourseRepository.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Repositories\\ICourseRepository.cs",
+              "RelativeToolTip": "Repositories\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "IGradeFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IGradeFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\IGradeFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IGradeFacade.cs",
-              "RelativeToolTip": "Facades\\IGradeFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:10:04.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "GradeFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\GradeFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\GradeFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\GradeFacade.cs",
-              "RelativeToolTip": "Facades\\GradeFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:08:02.567Z"
+              "Title": "Manager_SIMS.csproj",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Manager_SIMS.csproj",
+              "RelativeDocumentMoniker": "Manager_SIMS.csproj",
+              "ToolTip": "C:\\Manager_SIMS\\Manager_SIMS.csproj",
+              "RelativeToolTip": "Manager_SIMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T19:30:49.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "IGradeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IGradeRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IGradeRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IGradeRepository.cs",
-              "RelativeToolTip": "Repositories\\IGradeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:04:49.572Z"
+              "WhenOpened": "2025-03-27T19:30:49.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.783Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "GradeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\GradeRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\GradeRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\GradeRepository.cs",
-              "RelativeToolTip": "Repositories\\GradeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:04:41.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "GradeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\GradeViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\GradeViewModel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\GradeViewModel.cs",
-              "RelativeToolTip": "Models\\GradeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:59:46.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Grade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Grade.cs",
-              "RelativeDocumentMoniker": "Models\\Grade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Grade.cs",
-              "RelativeToolTip": "Models\\Grade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:59:08.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "Models\\Role.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Role.cs",
-              "RelativeToolTip": "Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:58:22.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Enrollment.cs",
-              "RelativeToolTip": "Models\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:58:14.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Course.cs",
-              "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:58:05.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:57:57.523Z"
+              "WhenOpened": "2025-03-27T19:30:49.749Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:55:29.516Z"
+              "WhenOpened": "2025-03-27T19:30:49.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 37,
+              "Title": "20250327102045_data.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Migrations\\20250327102045_data.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250327102045_data.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Migrations\\20250327102045_data.cs",
+              "RelativeToolTip": "Migrations\\20250327102045_data.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:53:58.108Z"
+              "WhenOpened": "2025-03-27T19:30:49.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "GradeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\GradeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GradeController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\GradeController.cs",
-              "RelativeToolTip": "Controllers\\GradeController.cs",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Manager_SIMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Manager_SIMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T19:30:49.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Views\\Course\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Enrollment\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enrollment\\List.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Enrollment\\List.cshtml",
+              "RelativeToolTip": "Views\\Enrollment\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ViewCourse.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Student\\ViewCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\ViewCourse.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Student\\ViewCourse.cshtml",
+              "RelativeToolTip": "Views\\Student\\ViewCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Views\\Grade\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Grade\\Edit.cshtml",
+              "ToolTip": "C:\\Manager_SIMS\\Views\\Grade\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Grade\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:30:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GradeViewModel.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Models\\GradeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\GradeViewModel.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Models\\GradeViewModel.cs",
+              "RelativeToolTip": "Models\\GradeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:53:12.296Z"
+              "WhenOpened": "2025-03-27T19:30:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.902Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "Manager_SIMS.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Manager_SIMS.csproj",
-              "RelativeDocumentMoniker": "Manager_SIMS.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Manager_SIMS.csproj",
-              "RelativeToolTip": "Manager_SIMS.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T09:48:53.404Z"
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Manager_SIMS\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Manager_SIMS\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "Controllers\\GradeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:30:49.927Z"
             }
           ]
         }
