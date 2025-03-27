@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -127,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\ienrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:facades\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\repositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:repositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -167,10 +171,6 @@
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|c:\\users\\lenovo\\onedrive\\desktop\\group1_se06303_apdp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9FF432-57BA-4923-B98B-DBDD746163F3}|Manager_SIMS.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -190,47 +190,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:01:16.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\CourseFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\CourseFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\CourseFacade.cs",
-              "RelativeToolTip": "Facades\\CourseFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:07:49.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICourseFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\ICourseFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\ICourseFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\ICourseFacade.cs",
-              "RelativeToolTip": "Facades\\ICourseFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:09:31.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
@@ -243,19 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnrollmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\EnrollmentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EnrollmentRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\EnrollmentRepository.cs",
-              "RelativeToolTip": "Repositories\\EnrollmentRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:04:10.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
@@ -267,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IEnrollmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IEnrollmentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IEnrollmentRepository.cs",
@@ -275,12 +227,98 @@
               "RelativeToolTip": "Repositories\\IEnrollmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:04:24.747Z",
+              "WhenOpened": "2025-03-27T10:04:24.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:54:40.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:52:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\EnrollmentFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\EnrollmentFacade.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\EnrollmentFacade.cs",
+              "RelativeToolTip": "Facades\\EnrollmentFacade.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:08:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:04:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICourseFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\ICourseFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\ICourseFacade.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\ICourseFacade.cs",
+              "RelativeToolTip": "Facades\\ICourseFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:09:31.89Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CourseFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\CourseFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\CourseFacade.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\CourseFacade.cs",
+              "RelativeToolTip": "Facades\\CourseFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:07:49.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:01:16.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
@@ -292,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
@@ -304,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ICourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\ICourseRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ICourseRepository.cs",
@@ -316,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\CourseRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CourseRepository.cs",
@@ -328,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -340,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "20250327102045_data.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Migrations\\20250327102045_data.cs",
               "RelativeDocumentMoniker": "Migrations\\20250327102045_data.cs",
@@ -352,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
@@ -364,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "UserFacade.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\UserFacade.cs",
               "RelativeDocumentMoniker": "Facades\\UserFacade.cs",
@@ -376,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -388,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -400,19 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:52:22.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IUserFacade.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IUserFacade.cs",
               "RelativeDocumentMoniker": "Facades\\IUserFacade.cs",
@@ -424,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\List.cshtml",
@@ -436,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Course\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
@@ -448,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Assign.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Enrollment\\Assign.cshtml",
               "RelativeDocumentMoniker": "Views\\Enrollment\\Assign.cshtml",
@@ -460,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Enrollment\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Enrollment\\List.cshtml",
@@ -472,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ViewCourse.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Student\\ViewCourse.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\ViewCourse.cshtml",
@@ -484,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ViewGrade.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Student\\ViewGrade.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\ViewGrade.cshtml",
@@ -496,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Grade\\List.cshtml",
@@ -508,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Grade\\Create.cshtml",
@@ -520,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Views\\Grade\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Grade\\Edit.cshtml",
@@ -532,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IGradeFacade.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IGradeFacade.cs",
               "RelativeDocumentMoniker": "Facades\\IGradeFacade.cs",
@@ -544,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "IEnrollmentFacade.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\IEnrollmentFacade.cs",
               "RelativeDocumentMoniker": "Facades\\IEnrollmentFacade.cs",
@@ -557,18 +583,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "EnrollmentFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\EnrollmentFacade.cs",
-              "RelativeDocumentMoniker": "Facades\\EnrollmentFacade.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\EnrollmentFacade.cs",
-              "RelativeToolTip": "Facades\\EnrollmentFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:08:33.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
               "Title": "GradeFacade.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Facades\\GradeFacade.cs",
               "RelativeDocumentMoniker": "Facades\\GradeFacade.cs",
@@ -580,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IGradeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\IGradeRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IGradeRepository.cs",
@@ -592,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "GradeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Repositories\\GradeRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\GradeRepository.cs",
@@ -604,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "GradeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\GradeViewModel.cs",
               "RelativeDocumentMoniker": "Models\\GradeViewModel.cs",
@@ -616,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Grade.cs",
               "RelativeDocumentMoniker": "Models\\Grade.cs",
@@ -628,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -640,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "Models\\Enrollment.cs",
@@ -652,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
@@ -664,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -676,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -685,18 +699,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T09:55:29.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "EnrollmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\EnrollmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Group1_SE06303_APDP\\Controllers\\EnrollmentController.cs",
-              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:54:40.421Z"
             },
             {
               "$type": "Document",
