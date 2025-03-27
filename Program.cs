@@ -31,10 +31,10 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserFacade, UserFacade>();
 builder.Services.AddScoped<ICourseRepository, CourseRepository>();
 builder.Services.AddScoped<ICourseFacade, CourseFacade>();
-//builder.Services.AddScoped<IEnrollmentRepository, EnrollmentRepository>();
-//builder.Services.AddScoped<IEnrollmentFacade, EnrollmentFacade>();
-//builder.Services.AddScoped<IGradeRepository, GradeRepository>();
-//builder.Services.AddScoped<IGradeFacade, GradeFacade>();
+builder.Services.AddScoped<IEnrollmentRepository, EnrollmentRepository>();
+builder.Services.AddScoped<IEnrollmentFacade, EnrollmentFacade>();
+builder.Services.AddScoped<IGradeRepository, GradeRepository>();
+builder.Services.AddScoped<IGradeFacade, GradeFacade>();
 
 
 
