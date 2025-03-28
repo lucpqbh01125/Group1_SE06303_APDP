@@ -10,17 +10,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromMinutes(30); 
-    options.Cookie.HttpOnly = true;  
-    options.Cookie.IsEssential = true; 
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Thời gian tồn tại của session
+    options.Cookie.HttpOnly = true;  // Bảo mật
+    options.Cookie.IsEssential = true; // Bắt buộc bật cookie
 });
 // Cấu hình Authentication bằng Cookie
-//builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-//    .AddCookie(options =>
-//    {
-//        options.LoginPath = "/Login"; 
-//        options.AccessDeniedPath = "/AccessDenied"; 
-//    });
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Login"; // Trang đăng nhập nếu chưa xác thực
+        options.AccessDeniedPath = "/AccessDenied"; // Trang từ chối quyền truy cập
+    });
 builder.Services.AddAuthorization();
 builder.Services.AddMvc();
 // Thêm dịch vụ bộ nhớ để lưu trữ session
